@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**fhero98/fhero98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Fotis! 👋
 
-Here are some ideas to get you started:
+### Laravel & PHP Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer based in Cyprus, specializing in backend development, REST APIs, payment integrations, and business automation.
+
+### 🛠️ Tech Stack
+- PHP / Laravel
+- MySQL / PostgreSQL
+- REST APIs / Webhooks / Stripe
+- Docker / Linux / Git
+- JavaScript / Python / C++
+
+### 💻 What I Do
+- Build backend applications with Laravel
+- Develop and integrate REST APIs
+- Implement payment and webhook systems
+- Automate business workflows
+- Work with relational databases
+
+### 🚀 Currently Working On
+- Building independent Laravel portfolio projects
+- Improving software architecture and automated testing
+
+### 📬 Contact
+- GitHub: https://github.com/fhero98
